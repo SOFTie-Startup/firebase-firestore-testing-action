@@ -1,3 +1,5 @@
+# Note: This was an effort to automate backed tests but is not working yet
+
 ## Jest testing (including firestore rules)
 
 This action runs jest to test code. It also includes the firebase firestore emulator to make it possible to also test firestore rules.
